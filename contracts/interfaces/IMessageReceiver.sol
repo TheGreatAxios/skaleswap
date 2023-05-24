@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-only
-pragma solidity >=0.6.10 <0.9.0;
+pragma solidity ^0.8.9;
 
 /**
  *   IMessageReceiver.sol - SKALE Interchain Messaging Agent
